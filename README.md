@@ -38,7 +38,7 @@ smartbasket-app/
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/RickyTheDude/Walmart-shopping-assistant.git
-    cd smartbasket-app
+    cd Walmart-shopping-assistant
     ```
 2.  **Open `index.html`:** Simply open the `index.html` file in your web browser.
 
